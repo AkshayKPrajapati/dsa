@@ -11,7 +11,7 @@ public class TwoSumIIInputArrayIsSorted {
         System.out.println(Arrays.toString(x));
 
     }
-    //Optimizaion code
+    //Optimization code
     public int[] twoSum(int[] nums, int target) {
         int length=nums.length;
         int left=0;
